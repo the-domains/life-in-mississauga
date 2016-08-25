@@ -1,3 +1,4 @@
+layout_spectrum: 0.42461229278706014
 typography_spectrum: 0.7089108596555889
 color:
   brandStrength: 0.7295107424724847
@@ -10,7 +11,4 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.42461229278706014
 name: Life in Mississauga
-title: Where do you Live?
-description: Life in Sauga
